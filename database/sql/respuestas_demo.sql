@@ -1,0 +1,15 @@
+INSERT INTO `respuestas` (`id`, `pregunta_id`, `respuesta`, `validez`, `status`, `created_at`, `updated_at`) VALUES
+(1, 1, 'No se le mira el colmillo', 1, 1, '2023-10-10 00:03:19', '2023-10-23 22:00:09'),
+(2, 2, 'Se lo lleva la corriente', 1, 1, '2023-10-10 00:05:06', '2023-10-10 00:05:06'),
+(3, 2, 'Que se lo coma el tigre', 0, 1, '2023-10-10 00:05:06', '2023-10-10 00:05:06'),
+(4, 2, 'Se va nadando', 0, 1, '2023-10-10 00:05:06', '2023-10-10 00:05:06'),
+(5, 2, 'Ninguna de las anteriores', 0, 1, '2023-10-10 00:05:06', '2023-10-10 00:05:06'),
+(6, 3, 'Barinas', 0, 1, '2023-10-10 00:07:03', '2023-10-10 00:07:03'),
+(7, 3, 'Mérida', 1, 1, '2023-10-10 00:07:03', '2023-10-10 00:07:03'),
+(8, 3, 'Cumaná', 0, 1, '2023-10-10 00:07:03', '2023-10-10 00:07:03'),
+(9, 3, 'Bolívar', 0, 1, '2023-10-10 00:07:03', '2023-10-10 00:07:03'),
+(10, 4, 'H₂O, un átomo de oxígeno ligado a dos de hidrógeno', 1, 1, '2023-10-10 00:10:47', '2023-10-10 00:10:47'),
+(11, 5, 'Organización administrativa: 23 estados: Amazonas, Anzoátegui, Apure, Aragua, Barinas, Bolívar, Carabobo, Cojedes, Delta Amacuro, Dependencias Federales, Distrito Federal, Falcón, Guárico, Lara, Mérida, Miranda, Monagas, Nueva Esparta, Portuguesa, Sucre, Táchira, Trujillo, La Guaira, Yaracuy y Zulia.', 1, 1, '2023-10-10 00:13:32', '2023-10-10 00:13:32'),
+(12, 6, 'Se han vendido ya más de 3.900 millones de copias de la Biblia en todo el mundo; (2023), lo que la convierte en el libro más vendido de todos los tiempos.', 1, 1, '2023-10-10 00:16:26', '2023-10-10 00:16:26'),
+(13, 7, 'Algunos de las más notables mesas son: Autanatepui, Auyan-tepui, Cerro Duida-Cerro Marahuaca, Cerro Huachamacare, Kukenan-tepui, Neblinatepui, Ptaritepui, Roraima-tepui, Sarisariñama.', 1, 1, '2023-10-10 00:21:50', '2023-10-10 00:23:17'),
+(14, 8, 'No, no hay fronteras con Argentina.', 0, 1, '2023-10-10 00:27:46', '2023-10-10 00:27:46');
